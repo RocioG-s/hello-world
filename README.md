@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+RocioG-s here, I like enchiladas and popsicles
+
+
